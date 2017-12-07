@@ -5,7 +5,7 @@
 **Discussion:** Everybody starts somewhere. There are two parts to this Lab.
 
 1. Complete the first two Lab assignments in the chapter. The directions are on pages 83-84 of the text. The files are included in this repository. 
-1. Create your own web page about any subject you like. Create it in its own folder in this repository (this should be simple to do on Codeanywhere). It must include exxamples of each of the following:
+1. Create your own web page about any subject you like. Like the other pages, it can be in the root folder of this repository (this should be simple to do on Codeanywhere). It must include examples of each of the following:
   * Different font colors
   * Different font sizes
   * Heading tags
